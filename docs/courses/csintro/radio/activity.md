@@ -2,7 +2,13 @@
 
 ![Marco Polo Cartoon](/static/courses/csintro/radio/marco-polo.png)
 
-Guide the students in creating programs that use the radio communication blocks to send and receive data between two micro:bits.
+Kia ora,
+
+We'll be following this activity today to send radion messages to each other using micro:bits.
+
+Learning outcomes:
+* Be able to send and recieve radio messages.
+* Be able to log in to slack.com and get help with your work. 
 
 Notes:
 * When using the radio blocks, the micro:bit simulator will show two micro:bits 
@@ -256,8 +262,8 @@ Challenge question: Can our code be made more efficient?
 
 ## Making our code more efficient
 
-Remind students that they can edit the 'if...then' block, adding as many 'else if' conditions as needed. 
-They can do this by clicking on the **(+)** or **(-)** symbols on the 'if...then' block.
+Remember that you can edit the 'if...then' block, adding as many 'else if' conditions as needed. 
+You can do this by clicking on the **(+)** or **(-)** symbols on the 'if...then' block.
 
 ![Add else-if to if-then block](/static/courses/csintro/radio/if-then-else-if.png)
 
